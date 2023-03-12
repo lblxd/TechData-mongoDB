@@ -4,7 +4,7 @@
 ## 此文件是考研教辅网站对应的数据库文件
 
 
-首先确定自己的电脑已经安装好了mongodb服务器，并且配置好了全局变量。
+首先确定自己的电脑已经安装好了mongo，并且配置好了全局变量。
 
 
 打开命令行工具，使用mongoimport --db [databaseName] --collection [collectionName] --file [filePath]命令进行安装
