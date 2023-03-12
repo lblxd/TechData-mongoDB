@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6379b4aa1d7e64583b2e8f03"
+  },
+  "name": "首页幻灯片广告",
+  "items": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379bca01d7e64583b2e8f06"
+  },
+  "items": [
+    {
+      "image": "http://localhost:3000/uploads/876e95b38bd152b542e9854768f7de0f",
+      "url": "123123",
+      "_id": {
+        "$oid": "6379bcbf1d7e64583b2e8f0a"
+      }
+    },
+    {
+      "image": "http://localhost:3000/uploads/6fcae6a72a0d72b9b9edac6728b94aa0",
+      "url": "123312312312312",
+      "_id": {
+        "$oid": "6379bd351d7e64583b2e8f1e"
+      }
+    }
+  ],
+  "__v": 0,
+  "name": "123"
+}]

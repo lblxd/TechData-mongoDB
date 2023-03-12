@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "638f78358ede4bc2bd949a3e"
+  },
+  "author": {
+    "$oid": "638dc3c30eee972cf9796b13"
+  },
+  "question": "不会高数",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670346805274"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670346805274"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638f7e028ede4bc2bd949af9"
+  },
+  "author": {
+    "$oid": "638dc3c30eee972cf9796b13"
+  },
+  "question": "213123213",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670348290533"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670348454875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639096042c6a534a80a4eeda"
+  },
+  "author": {
+    "$oid": "638e3a899def6df5bbc20c93"
+  },
+  "question": "2022212/07",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670419972894"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670419996193"
+    }
+  },
+  "__v": 0,
+  "answer": "test",
+  "state": true
+},{
+  "_id": {
+    "$oid": "63af090aecfac456df796f6b"
+  },
+  "author": {
+    "$oid": "638dc3c30eee972cf9796b13"
+  },
+  "question": "123",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672415498459"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672415498459"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b47d9f690ea6734d29e23f"
+  },
+  "author": {
+    "$oid": "638dc3c30eee972cf9796b13"
+  },
+  "question": "这是一条测试用问题",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672773023505"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672773054203"
+    }
+  },
+  "__v": 0,
+  "answer": "该问题已经被解答",
+  "state": true
+}]

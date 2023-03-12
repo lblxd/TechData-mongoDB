@@ -1,0 +1,702 @@
+[{
+  "_id": {
+    "$oid": "638881b2ca6799baab93a4ff"
+  },
+  "name": "2023英美文学考研 星火英语专业考研英美文学考点精梳与精练 ",
+  "icon": "http://localhost:3000/uploads/8104e2ccd73276a5ed691cf762c9f049",
+  "author": "星火英语",
+  "price": 32,
+  "categories": [
+    {
+      "$oid": "63885358ca6799baab93a4d0"
+    }
+  ],
+  "scores": 8,
+  "description": "<p>品牌：星火ISBN编号：9787546373690书名：英语专业考研考点精梳与精练英美文学</p><p>作者：无科目：英美文学定价：36.80元</p><p>编者：郭棲庆书名：英语专业考研考点精梳与精练英美文学开本：16开</p><p>是否是套装：否出版社名称：吉林出版集团有限责任公司</p><p><img src=\"http://localhost:3000/uploads/1fb480bb585da4e2220d24987344f751\"><img src=\"http://localhost:3000/uploads/4c2212fdd659fbe0a5e1a33217995456\"></p>",
+  "__v": 0,
+  "category": {
+    "$oid": "63885358ca6799baab93a4d0"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669997885006"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63888230ca6799baab93a513"
+  },
+  "name": "2024考研真相英语一英语二历年真题解析考研圣经2004-2023年真题试卷 ",
+  "icon": "http://localhost:3000/uploads/5b54fa5491599ba75db8ed23d4b4b3bc",
+  "author": "考研真相",
+  "price": 70,
+  "categories": [
+    {
+      "$oid": "63885358ca6799baab93a4d0"
+    }
+  ],
+  "scores": 9,
+  "description": "<p>品牌：太阳城考研1号主题：2024考研真相英语一英语二ISBN编号：9787519224226</p><p>书名：考研真相作者：无科目：2024版【英语一2004-2023】6本套 2024版【英语二2004-2023】6本套 2024版【英语一】6本套+词汇闪过 2024版【英语二】6本套+词汇闪过 2024版【英语一6本+词汇闪过+长难句】 2024版【英语二6本+词汇闪过+长难句】 2024版【英一6本+词汇闪过+默写本+长难句】 2024版【英二6本+词汇闪过+默写本+长难句】 2024英语一【一+二+三+四】真题解析 2024英语二【一+二+三+四】真题解析 2024英语一【2010-2023年】真题 2024英语二【2010-2023年】真题 2024【考研词汇闪过】送9本</p><p>定价：79.80元正：副书名：考研真相是否是套装：否</p><p>出版社名称：世界图书出版西安有限公司<img src=\"http://localhost:3000/uploads/762024ff876a2ca4ff2bbeb1c69369ec\"></p><p><img src=\"http://localhost:3000/uploads/d41f44c2b291ddcf9c85f2bc4449a7fa\"></p>",
+  "__v": 0,
+  "category": {
+    "$oid": "63885358ca6799baab93a4d0"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669997893939"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63888280ca6799baab93a521"
+  },
+  "name": "华研外语2024考研英语二阅读理解语法与长难句",
+  "icon": "http://localhost:3000/uploads/b7fb46482c2c8496ce2e389c33f17a61",
+  "author": "华研外语",
+  "price": 21,
+  "categories": [
+    {
+      "$oid": "63885358ca6799baab93a4d0"
+    }
+  ],
+  "scores": 8,
+  "__v": 0,
+  "description": "<p>品牌：华研外语主题：华研外语 考研英语二专项训练ISBN编号：9787519222727</p><p>书名：考研英语二作者：无科目：考研英语二 专项训练全套（6本） 考研英语二 历年真题13套（含13年电子版真题） 考研英语二 基础训练（6合一） 考研英语二 词汇3本（基础本+阅读本+便携本） 考研英语二 阅读part A 120篇 考研英语二 阅读part B 100篇 考研英语二 完形填空100篇 考研英语二 语法与长难句500句 考研英语二 写作160篇 考研英语二 翻译100篇 考研英语听力口语复试（6合1）</p><p>定价：49.80元正：副书名：考研英语二开本：16开</p><p>是否是套装：否出版社名称：世界图书出版有限公司</p><p><img src=\"http://localhost:3000/uploads/ab9ac3b7b4433e58926ceba8e82b44de\"></p>",
+  "category": {
+    "$oid": "63885358ca6799baab93a4d0"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669997937051"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6388831dca6799baab93a53b"
+  },
+  "name": "2024考研真相英语二英语一历年真题解析篇试卷逐词逐句精讲册基础研读版",
+  "icon": "http://localhost:3000/uploads/b13b8c31fce8d1f4ead0d57ff7c93127",
+  "author": "考研真相",
+  "price": 120,
+  "categories": [
+    {
+      "$oid": "63885358ca6799baab93a4d0"
+    }
+  ],
+  "scores": 10,
+  "description": "<p>品牌：太阳城考研1号主题：考研真相英语全套ISBN编号：9787519269890</p><p>书名：考研真相英语全套作者：无科目：2024新版（英一）全6本（真题+词汇+手译） 2024新版（英二）全6本（真题+词汇+手译） 2024新版（英一）真题4本（2004-2023） 2024新版（英二）真题4本（2004-2023） 2024新版（英一）真题3本（2004-2018） 2024新版（英二）真题3本（2004-2019） 2024新版（英一）真题解析（一）2004-2008 2024新版（英一）真题解析（二）2009-2013 2024新版（英一）真题解析（三）2014-2018 2024新版（英一）真题解析（四）2019-2023（2月出版） 2024新版（英一）真题配套词汇（2月出版） 2024新版（英一）真题翻译手译（2月出版） 2024新版（英二）真题解析（一）2004-2009 2024新版（英二）真题解析（二）2010-2014 2024新版（英二）真题解析（三）2015-2019 2024新版（英二）真题解析（四）2020-2023（2月出版） 2024新版（英二）真题配套词汇（2月出版） 2024新版（英二）真题翻译手译（2月出版） 23考研真相（英一）全套5本+闪过词汇 23考研真相（英一）全套5本+词汇+长难句 23考研真相（英二）全套5本+闪过词汇 23考研真相（英二）全套5本+词汇+长难句 23考研真相（英一）全套5本（03-22 ） 23考研真相（英二）全套5本（03-22 ） 23考研真相（英一）真题全册3本（03-22 ） 23考研真相（英二）真题全册3本（03-22 ） 23考研真相（英一）提高+冲刺+基础研读 23考研真相（英二）提高+冲刺+基础研读 23考研真相（英一）提高+冲刺+考点速记 23考研真相（英二）提高+冲刺+考点速记 23考研真相（英一）提高+冲刺（10-22） 23考研真相（英二）提高+冲刺（10-22） 23考研真相（英一）基础加强版（03-09） 23考研真相（英一）提高突破版（10-16） 23考研真相（英一）考前冲刺版（17-22） 23考研真相（英二）基础版（03-09） 23考研真相（英二）提高版（10-16） 23考研真相（英二）冲刺版（17-22） 23基础研读版（英一/英二）</p><p>定价：49.80元正：副书名：考研真相英语全套是否是套装：否</p><p>出版社名称：世界图书出版有限公司</p><p><img src=\"http://localhost:3000/uploads/747f866a4ac746c9bedfc1b8bc2fbf57\"></p><p><img src=\"http://localhost:3000/uploads/0c6fb3194fee46fe1bfa5ea57d5ac1e7\"></p>",
+  "__v": 0,
+  "category": {
+    "$oid": "63885358ca6799baab93a4d0"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669997921206"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "638883baca6799baab93a545"
+  },
+  "name": "2023考研英语冲刺预测6套卷英语一 ",
+  "icon": "http://localhost:3000/uploads/e8d8dc91635baca8888a9bf1f1a21904",
+  "author": "李旭 ",
+  "price": 20,
+  "categories": [
+    {
+      "$oid": "63885358ca6799baab93a4d0"
+    }
+  ],
+  "scores": 6,
+  "description": "<p>ISBN编号：9787111719762书名：考研英语冲刺预测6套卷(英语一)作者：无</p><p>科目：考研英语冲刺预测6套卷 英语一是否是套装：否出版社名称：机械工业出版社</p><p><img src=\"http://localhost:3000/uploads/9a91e31deeb5018121276233af407aea\"></p>",
+  "__v": 0,
+  "category": {
+    "$oid": "63885358ca6799baab93a4d0"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669997943384"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6388857aca6799baab93a550"
+  },
+  "name": "2023年考研数学历年真题真练试卷答案详解",
+  "icon": "http://localhost:3000/uploads/13c8e9b588c234586f38ca9f89aec9e7",
+  "author": "真题真练",
+  "price": 12,
+  "categories": [
+    {
+      "$oid": "6388535fca6799baab93a4d9"
+    }
+  ],
+  "scores": 4,
+  "description": "<p>ISBN编号：9787561079669书名：考研数学历年真题详解作者：无</p><p>科目：考研数学一历年真题 考研数学二历年真题 考研数学三历年真题 考研政治历年真题 考研英语一历年真题 考研英语二历年真题 考研管理类联考真题 考研【英语二+管理类联考】真题 考研法硕非法学【公共科+专业科】真题 考研教育学真题 考研西医综合真题 考研中医综合真题定价：26.00元书名：考研数学历年真题详解</p><p>是否是套装：否出版社名称：辽宁大学出版社</p><p><img src=\"http://localhost:3000/uploads/6adc0387407114f396cef0b40966ee3e\"></p><p><img src=\"http://localhost:3000/uploads/dbeffac784cd85eb1089118cad671d44\"></p>",
+  "__v": 0,
+  "category": {
+    "$oid": "6388535fca6799baab93a4d9"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669997949330"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "638885bfca6799baab93a55a"
+  },
+  "name": "2024年张宇考研数学基础30讲+300题+模考卷高数",
+  "icon": "http://localhost:3000/uploads/d59c1d97113796b53db95717cfa2f1e7",
+  "author": "张宇",
+  "price": 50,
+  "categories": [
+    {
+      "$oid": "6388535fca6799baab93a4d9"
+    }
+  ],
+  "scores": 7,
+  "description": "<p>品牌：时代云图ISBN编号：9787576309416书名：2024张宇考研数学基础30讲--基础300题(高等数学分册)</p><p>作者：张宇科目：【数一三】高数+线代 +概率 2024基础30讲+300题+模考卷 【数二】高数+线代 2024基础30讲+300题+模考卷 基础30讲（高数分册)+300题+模考卷 基础30讲（线代分册)+300题+模考卷 基础30讲（概率论分册)+300题+模考卷作者地区：中国大陆</p><p>定价：139.90元正：副书名：2024张宇考研数学基础30讲--基础300题(高等数学分册)开本：16开</p><p>是否是套装：否出版社名称：北京理工大学出版社内文用纸材质：胶版纸</p><p>出版时间：2022-07</p><p><img src=\"http://localhost:3000/uploads/868c14ee8ad4192db1cb173ecdc1e9f7\"></p>",
+  "__v": 0,
+  "category": {
+    "$oid": "6388535fca6799baab93a4d9"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669997956975"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63888628ca6799baab93a564"
+  },
+  "name": "高教社官方辅导 高等数学同济七版 上册",
+  "icon": "http://localhost:3000/uploads/8bd902a9bdd4c90bedcb0f92d6880ada",
+  "author": "高教社",
+  "price": 45,
+  "categories": [
+    {
+      "$oid": "6388535fca6799baab93a4d9"
+    }
+  ],
+  "scores": 10,
+  "description": "<p>ISBN编号：9787040396911书名：高等数学习题全解指南 上册 同济·第七版作者：无</p><p>译者：无定价：36.70元编者：同济大学数学系</p><p>书名：高等数学习题全解指南 上册 同济·第七版开本：16开是否是套装：否</p><p>出版社名称：高等教育出版社</p><p><img src=\"http://localhost:3000/uploads/0088f5239512efae06fbd9661f05d811\"></p>",
+  "__v": 0,
+  "category": {
+    "$oid": "6388535fca6799baab93a4d9"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669998002631"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63888662ca6799baab93a56e"
+  },
+  "name": "工程线性代数同济六版同步测试卷子",
+  "icon": "http://localhost:3000/uploads/84cc4703fbff4b92c4b3a8281f613a25",
+  "author": "同济",
+  "price": 14,
+  "categories": [
+    {
+      "$oid": "6388535fca6799baab93a4d9"
+    }
+  ],
+  "scores": 8,
+  "description": "<p>是否是套装：否书名：线性代数定价：15.00元</p><p>出版社名称：东北大学出版社作者：无编者：滕勇，韩蕾，刘军主编</p><p>书名：线性代数ISBN编号：9787811027204</p><p><img src=\"http://localhost:3000/uploads/6ee1fd8e512e3303ed72072023c00656\"></p>",
+  "__v": 0,
+  "category": {
+    "$oid": "6388535fca6799baab93a4d9"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669998008970"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "638886b6ca6799baab93a579"
+  },
+  "name": "数学分析中的典型问题与方法",
+  "icon": "http://localhost:3000/uploads/9740d277d5fbb47d08eeb90d14be6e68",
+  "author": "樊启斌",
+  "price": 46,
+  "categories": [
+    {
+      "$oid": "6388535fca6799baab93a4d9"
+    }
+  ],
+  "scores": 8,
+  "description": "<p>ISBN编号：9787560555300书名：数学分析典型例题解析作者：无</p><p>科目：【2件套】数学分析+高等代数典型问题与方法 数学分析中的典型问题与方法 裴礼文 高等代数典型问题与方法 樊启斌定价：47.00元正：副书名：数学分析典型例题解析</p><p>开本：16开是否是套装：否出版社名称：西安交通大学出版社</p><p><img src=\"http://localhost:3000/uploads/7b5f5b71f7a73358d699d85bc1aa0772\"></p><p><img src=\"http://localhost:3000/uploads/c7ec4fe7fba7b2a1c7c4ab87ee2d9038\"></p>",
+  "__v": 0,
+  "category": {
+    "$oid": "6388535fca6799baab93a4d9"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669998013757"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "638888f1ca6799baab93a584"
+  },
+  "name": "2023版考研政治王吉密押题预测三套卷",
+  "icon": "http://localhost:3000/uploads/c6547f22a450e9da615abf60f0d26d27",
+  "author": "政治王吉",
+  "price": 24,
+  "categories": [
+    {
+      "$oid": "6388538fca6799baab93a4e2"
+    }
+  ],
+  "scores": 1,
+  "description": "<p>ISBN编号：9787568276412书名：考研思想政治王吉4套卷作者：王吉, 彭林强, 主编</p><p>科目：王吉 考研政治终极预测三套卷定价：30.00元编者：王吉</p><p>正：副书名：考研思想政治王吉4套卷是否是套装：否出版社名称：北京理工大学出版社</p><p><img src=\"http://localhost:3000/uploads/90a0dff748702eb7debfb2debfc160ca\"></p><p><img src=\"http://localhost:3000/uploads/2f03101826c3501aee2a2bf69f9f1a9f\"></p>",
+  "__v": 0,
+  "category": {
+    "$oid": "6388538fca6799baab93a4e2"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669998020357"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63888933ca6799baab93a58d"
+  },
+  "name": "任燕翔备考2022考研政治 安全屋知识体系与考试运用 ",
+  "icon": "http://localhost:3000/uploads/c4881e5f5892506bdb7a1d41b03c7c9f",
+  "author": "任燕翔",
+  "price": 10,
+  "categories": [
+    {
+      "$oid": "6388538fca6799baab93a4e2"
+    }
+  ],
+  "scores": 5,
+  "__v": 0,
+  "description": "<p>ISBN编号：9787519451738书名：考研政治真题全解作者：无</p><p>科目：考研政治定价：28.00元书名：考研政治真题全解</p><p>是否是套装：否出版社名称：光明日报出版社</p><p><img src=\"http://localhost:3000/uploads/e72aa899047e7cb8c90d123052879970\"></p>",
+  "category": {
+    "$oid": "6388538fca6799baab93a4e2"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669998027494"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63888998ca6799baab93a5a1"
+  },
+  "name": "中公考研政治2023考研政治考试用书考研政治1000题",
+  "icon": "http://localhost:3000/uploads/17966836e86521f5e13f255b60c3fb62",
+  "author": "中公教育",
+  "price": 36,
+  "categories": [
+    {
+      "$oid": "6388538fca6799baab93a4e2"
+    }
+  ],
+  "scores": 6,
+  "description": "<p>ISBN编号：9787519206666书名：2020考研政治基础1000题作者：无</p><p>科目：考研政治：基础1000题定价：40.00元正：副书名：2020考研政治基础1000题</p><p>是否是套装：否出版社名称：世界图书出版公司</p><p><img src=\"http://localhost:3000/uploads/45fc62dcd22e7ea44c69b271fd33c048\"></p>",
+  "__v": 0,
+  "category": {
+    "$oid": "6388538fca6799baab93a4e2"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669998038192"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63888a24ca6799baab93a5ab"
+  },
+  "name": "考研政治精雕细刻1000题",
+  "icon": "http://localhost:3000/uploads/ef5c9955e6a36999ccf6a120c3444033",
+  "author": "精雕细刻",
+  "price": 53,
+  "categories": [
+    {
+      "$oid": "6388538fca6799baab93a4e2"
+    }
+  ],
+  "scores": 9,
+  "description": "<p>ISBN编号：9787569327403书名：考研政治精雕细刻1000题作者：米鹏</p><p>科目：考研政治精雕细刻1000题正：副书名：考研政治精雕细刻1000题是否是套装：是</p><p>出版社名称：西安交通大学出版社</p><p>本书分试题分册和解析分册两册，内容包括四部分：马克思主义基本原理、**思想和中国特色社会主义理论体系概论、中国近现代史纲要、思想道德与法治。</p><p><img src=\"http://localhost:3000/uploads/3bcfa4acc17e4ae60a264f9ccc864b79\"></p>",
+  "__v": 0,
+  "category": {
+    "$oid": "6388538fca6799baab93a4e2"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669998045270"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63888a7eca6799baab93a5b6"
+  },
+  "name": "新版历年真题2013-2022年真题试卷政治管理类数学练习题卷复习资料",
+  "icon": "http://localhost:3000/uploads/040775e9a785f386655ddf32f6446189",
+  "author": "张宇",
+  "price": 35,
+  "categories": [
+    {
+      "$oid": "6388538fca6799baab93a4e2"
+    }
+  ],
+  "scores": 9,
+  "description": "<p>ISBN编号：9787545479478书名：考研政治历年真题卷(套装)作者：无</p><p>科目：考研【政治】2013-2022 考研【英语一】2013-2022 考研【英语二】2013-2022 考研【管理类联考】2013-2022 考研【数学三】2013-2022 考研【数学一】2013-2022 李永乐荐】20年数学真题真刷 数学一 李永乐荐】20年数学真题真刷 数学二 李永乐荐】20年数学真题真刷 数学三 英语一 历年真题百练 03-22 英语二 真题大全 中医综合真题大全 13-22 西医综合历年真题详解 13-22 英语一历年真题（纸质解析）13-22 英语二历年真题（纸质解析）15-22 数学一 历年真题 13-22 数学二 历年真题13-22 数学三 历年真题13-22 英语一 历年真题（电子解析）13-22 英语二 历年真题（电子解析）13-22 思想政治理论 （纸质解析）13-22 管理类联考综合能力 （纸质解析）13-22 教育学专业基础综合 13-22 法律硕士（非法学）专业科 12-21 法律硕士（非法学）综合科 12-21 法律硕士真题狂刷（法学） 10-22 法律硕士真题狂刷（非法学）10-22定价：49.80元正：副书名：考研政治历年真题卷(套装)</p><p>是否是套装：否出版社名称：广东经济出版社</p><p><img src=\"http://localhost:3000/uploads/514058eee9ad484ebadb7356fc4f3023\"></p><p><img src=\"http://localhost:3000/uploads/5abdb181f3fc2643b8399aa363672fb5\"></p>",
+  "__v": 0,
+  "category": {
+    "$oid": "6388538fca6799baab93a4e2"
+  }
+},{
+  "_id": {
+    "$oid": "63888f5dca6799baab93a5bf"
+  },
+  "name": "计算机网络高分笔记:2022版",
+  "icon": "http://localhost:3000/uploads/b2c1cedd78992c41e7a51ac9b8fd00e2",
+  "author": "王道",
+  "price": 38,
+  "categories": [
+    {
+      "$oid": "6388539cca6799baab93a4eb"
+    }
+  ],
+  "scores": 8,
+  "description": "<p>  品牌：机械工业出版社ISBN编号：9787111667247书名：计算机网络高分笔记:2022版:天勤第10版</p><p>作者：无定价：59.80元书名：计算机网络高分笔记:2022版:天勤第10版</p><p>是否是套装：否出版社名称：机械工业出版社出版时间：2020-11</p><p><br></p><p><br></p><p>暂时没有内容介绍，请见谅！</p><p><br></p><p><br></p><p><img src=\"https://assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif\"> 暂时没有目录</p>",
+  "__v": 0,
+  "category": {
+    "$oid": "6388539cca6799baab93a4eb"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669998053210"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63888ff1ca6799baab93a5c9"
+  },
+  "name": "2023年王道考研计算机计算机网络考研复习指导",
+  "icon": "http://localhost:3000/uploads/8d765dca5ec1ca439a5241e2b6cb94f5",
+  "author": "王道考研",
+  "price": 46,
+  "categories": [
+    {
+      "$oid": "6388539cca6799baab93a4eb"
+    }
+  ],
+  "scores": 9,
+  "description": "<p>ISBN编号：9787121423734书名：2023年计算机网络考研复习指导作者：王道论坛 著</p><p>科目：2023年计算机网络考研复习指导定价：69.00元书名：2023年计算机网络考研复习指导</p><p>是否是套装：否出版社名称：电子工业出版社</p><p><img src=\"http://localhost:3000/uploads/5411f6c696b276895e0470137ce18716\"></p>",
+  "__v": 0,
+  "category": {
+    "$oid": "6388539cca6799baab93a4eb"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669998063206"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "638890deca6799baab93a5d3"
+  },
+  "name": "王道2023年计算机专业基础综合考试核心考点及模拟题+历年真题解析",
+  "icon": "http://localhost:3000/uploads/dae06fbdd903ec51c095e480b1c5e6e6",
+  "author": "王道考研",
+  "price": 47,
+  "categories": [
+    {
+      "$oid": "6388539cca6799baab93a4eb"
+    }
+  ],
+  "scores": 9,
+  "description": "<p>品牌：电子工业出版社ISBN编号：9787121355974书名：2020 年计算机网络考研复习指导</p><p>作者：王道科目：2023历年真题解析+冲刺模拟题 2023版冲刺模拟题 2023版历年真题解析 2023版【全套四本】王道计算机考研复习指导 2023版【操作系统】王道考研复习指导 2023版【数据结构】王道考研考研复习指导 2023版【计算机网络】王道考研复习指导 2023版【计算机组成原理】王道考研复习指导定价：55.00元</p><p>正：副书名：2020 年计算机网络考研复习指导是否是套装：否出版社名称：电子工业出版社</p><p><img src=\"http://localhost:3000/uploads/7937c7e76b955c9a6507cc820b2e2d41\"></p><p>2023年计算机专业基础综合考试核心考点及模拟题</p><p>作者:王道论坛</p><p>出版社:电子工业出版社</p><p>出版时间:2022年08月&nbsp;</p><p>开 本：16开</p><p>纸 张：胶版纸</p><p>包 装：平装-胶订</p><p>ISBN：9787121439018</p><p>定价：69.00元</p><p>内容简介</p><p>本书严格按照计算机专业研究生入学考试历年统考试题的命题重点，首先按照数据结构部分、计算机组成原理部分、操作系统部分、计算机网络部分归纳了计算机专业基础综合考试的核心考点，然后编制了八套模拟题和一套算法附加题，并进行了详尽的解析与总结，供读者进行实战练习。统考试题的命题重点是有规律可循的，只有牢固掌握了这些重要考点，并进行模拟练习，才能真正做到灵活运用，在考场上游刃有余。同时，创新的\"书本 在线”的学习方式与网上答疑，可大大提高考生的复习效果，达到事半功倍的复习效率。</p><p>作者简介</p><p>王道论坛，一家专注于计算机考研的网站与培训机构，业务包括计算机组成原理、数据结构、计算机网络和操作系统，以及C等语言的培训工作，用户规模较大。</p><p>目 录&nbsp;</p><p>第1篇 数据结构部分&nbsp;</p><p>第1章 绪论 2&nbsp;</p><p>考点1：时间复杂度与空间复杂度 2&nbsp;</p><p>第2章 线性表 4&nbsp;</p><p>考点2：线性表的顺序表示 4&nbsp;</p><p>考点3：线性表的链式表示 5&nbsp;</p><p>第3章 栈和队列 7&nbsp;</p><p>考点4：栈和队列的基本性质 7&nbsp;</p><p>考点5：栈和队列的存储结构 7&nbsp;</p><p>考点6：双端队列 8&nbsp;</p><p>考点7：栈与队列的应用 9&nbsp;</p><p>考点8：特殊矩阵的压缩存储 10&nbsp;</p><p>第4章 树与二叉树 12</p>",
+  "__v": 0,
+  "category": {
+    "$oid": "6388539cca6799baab93a4eb"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669998074842"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "638890feca6799baab93a5dc"
+  },
+  "name": "数据结构严蔚敏C语言版",
+  "icon": "http://localhost:3000/uploads/fb6911cfbb4eb220dad4f1aa49ac8b5a",
+  "author": "严蔚敏",
+  "price": 36,
+  "categories": [
+    {
+      "$oid": "6388539cca6799baab93a4eb"
+    }
+  ],
+  "scores": 6,
+  "__v": 0,
+  "description": "<p>品牌：圣才教育ISBN编号：9787511456960书名：严蔚敏《数据结构》(C语言版)笔记和习题(含考研真题)详解</p><p>作者：无科目：严蔚敏【数据结构】C语言版：笔记 严蔚敏【数据结构】C语言版：教材+笔记2本 严蔚敏【数据结构】C语言版：教材+题集2本 严蔚敏【数据结构】C语言版：教材+题集+笔记3本 严蔚敏【数据结构】C语言版：教材 严蔚敏【数据结构】C语言版：题集作者地区：中国大陆</p><p>定价：68.00元编者：圣才考研网书名：严蔚敏《数据结构》(C语言版)笔记和习题(含考研真题)详解</p><p>开本：16开是否是套装：否出版社名称：中国石化出版社</p><p>出版时间：2020-03</p><p><img src=\"http://localhost:3000/uploads/2c6da5ddd537bc49c31f20b036397fbd\"></p><p><img src=\"http://localhost:3000/uploads/94506cb0cb8e67c96065f0db3016ca81\"></p>",
+  "category": {
+    "$oid": "6388539cca6799baab93a4eb"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669998081405"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6388916aca6799baab93a5f1"
+  },
+  "name": "2023计算机考研数据结构操作系统计算机网络组成原理全套408专业基础综合",
+  "icon": "http://localhost:3000/uploads/3a3a08db8a985cd6d0276bd07e1a8e16",
+  "author": "王道",
+  "price": 59,
+  "categories": [
+    {
+      "$oid": "6388539cca6799baab93a4eb"
+    }
+  ],
+  "scores": 7,
+  "description": "<p>ISBN编号：9787121424366书名：王道计算机考研系列作者：无</p><p>科目：【全套4册】2023王道考研系列4本套（含赠品） 【全套5册】考研复习指导+机试指南（含赠品） 2023【操作系统】考研复习指导（含赠品） 2023【计算机组成原理】考研复习指导（含赠品） 2023【数据结构】考研复习指导（含赠品） 2023【计算机网络】考研复习指导（含赠品） 2023【机试指南】计算机考研（含赠品） 2022【计算机组成原理】考研复习指导（清仓特价） 【2023】数据结构+计算机网络（含赠品） 【2023】计算机组成原理+计算机网络（含赠品） 【2023】计算机组成原理+数据结构（含赠品） 【2023】操作系统+计算机网络（含赠品） 【2023】操作系统+数据结构（含赠品） 【2023】操作系统+计算机组成原理（含赠品）定价：282.00元编者：王道论坛</p><p>正：副书名：王道计算机考研系列是否是套装：否出版社名称：电子工业出版社</p><p>页数：1出版时间：2022-01</p><p><img src=\"http://localhost:3000/uploads/6323a722c06c58620eebce93601c42d4\"></p>",
+  "__v": 0,
+  "category": {
+    "$oid": "6388539cca6799baab93a4eb"
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669998094518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6389a61b6460e91ee0c3f9a6"
+  },
+  "name": "闪过 2023考研英语词汇闪过乱序版",
+  "icon": "http://localhost:3000/uploads/b9dbd97aa0ae7d80944df4cedefe25c0",
+  "author": "闪过",
+  "price": 48,
+  "category": {
+    "$oid": "63885358ca6799baab93a4d0"
+  },
+  "scores": 9,
+  "description": "<ul><li>开 本：32开</li><li>纸 张：胶版纸</li><li>包 装：平装-胶订</li><li>是否套装：否</li><li>国际标准书号ISBN：9787519244118</li></ul><p><img src=\"http://localhost:3000/uploads/69945ae48fe4509666b5f62751f65779\"></p>",
+  "__v": 0,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669998104826"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6389a6426460e91ee0c3f9b0"
+  },
+  "name": " 2024考研英语阅读150篇",
+  "icon": "http://localhost:3000/uploads/502045651a8f6b54a4b22d6820b73b42",
+  "author": "钦寅",
+  "price": 44,
+  "category": {
+    "$oid": "63885358ca6799baab93a4d0"
+  },
+  "scores": 7,
+  "description": "<ul><li>开 本：16开</li><li>纸 张：胶版纸</li><li>包 装：平装-胶订</li><li>是否套装：是</li><li>国际标准书号ISBN：9787510007989</li></ul><p><img src=\"http://localhost:3000/uploads/e7c3d43ea8bce9e0b7408e5c19c72649\"></p>",
+  "__v": 0,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669998112598"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6389a66e6460e91ee0c3f9ba"
+  },
+  "name": "新东方 考研英语词汇词根+联想记忆法：乱序便携版 ",
+  "icon": "http://localhost:3000/uploads/dc9b3caacdfd28bf24fdd6b96469bb16",
+  "author": "俞敏洪",
+  "price": 22,
+  "category": {
+    "$oid": "63885358ca6799baab93a4d0"
+  },
+  "scores": 6,
+  "description": "<ul><li>开 本：32开</li><li>纸 张：胶版纸</li><li>包 装：平装-胶订</li><li>是否套装：否</li><li>国际标准书号ISBN：9787511041760</li></ul><p><img src=\"http://localhost:3000/uploads/48104792bf37c7382f99304433c1c10e\"></p>",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6389a69c6460e91ee0c3f9c4"
+  },
+  "name": "世图版2023考研张剑黄皮书考研英语一真题",
+  "icon": "http://localhost:3000/uploads/c296de115d53f69f16f6a5a89c069a0a",
+  "author": "张剑",
+  "price": 71,
+  "category": {
+    "$oid": "63885358ca6799baab93a4d0"
+  },
+  "scores": 4,
+  "description": "<ul><li>开 本：16开</li><li>纸 张：胶版纸</li><li>包 装：平装-胶订</li><li>是否套装：否</li><li>国际标准书号ISBN：9787510082504</li></ul><p><img src=\"http://localhost:3000/uploads/07b58a8fe9ab9f871be573112d7d1751\"></p>",
+  "__v": 0,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669998124755"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6389a6c56460e91ee0c3f9ce"
+  },
+  "name": "2023考研英语(一)历年真题全解 2013-2022年考研英语历年真题解析 ",
+  "icon": "http://localhost:3000/uploads/e40a0d70b8101d02a6076ea82b6b2ca9",
+  "author": "孔新柯",
+  "price": 22,
+  "category": {
+    "$oid": "63885358ca6799baab93a4d0"
+  },
+  "scores": 7,
+  "description": "<ul><li>开 本：16开</li><li>纸 张：轻型纸</li><li>包 装：平装-胶订</li><li>是否套装：否</li><li>国际标准书号ISBN：9787519427979</li></ul><p><img src=\"http://localhost:3000/uploads/ac9c4983ade5b997567219af14b36280\"></p>",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6389a87d6460e91ee0c3f9d8"
+  },
+  "name": "2023考研数学李永乐复习全书·基础篇",
+  "icon": "http://localhost:3000/uploads/6f91c88d590ba4767cfee1fa893d2c9c",
+  "author": "李永乐",
+  "price": 84,
+  "category": {
+    "$oid": "6388535fca6799baab93a4d9"
+  },
+  "scores": 5,
+  "description": "<ul><li>开 本：16开</li><li>纸 张：胶版纸</li><li>包 装：平装-胶订</li><li>是否套装：否</li><li>国际标准书号ISBN：9787109268364</li></ul><p><img src=\"http://localhost:3000/uploads/59b35f7f6384af5b5f35f4ab9cf28f19\"></p>",
+  "__v": 0,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669998133510"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6389a8b56460e91ee0c3f9e2"
+  },
+  "name": "李永乐考研数学系列数学复习全书基础篇+基础过关660题",
+  "icon": "http://localhost:3000/uploads/32abf31829624b6ee9474791341a800f",
+  "author": "李永乐",
+  "price": 229,
+  "category": {
+    "$oid": "6388535fca6799baab93a4d9"
+  },
+  "scores": 8,
+  "description": "<ul><li>开 本：16开</li><li>纸 张：胶版纸</li><li>包 装：平装-胶订</li><li>是否套装：是</li><li>国际标准书号ISBN：29261179</li></ul><p><img src=\"http://localhost:3000/uploads/59110b9f46340af609a325e89d435086\"></p>",
+  "__v": 0,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669998154245"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6389a8da6460e91ee0c3f9ec"
+  },
+  "name": " 李林2023考研数学系列精讲精练880题（数学一）",
+  "icon": "http://localhost:3000/uploads/f77557cfabf8789257bf886f72992676",
+  "author": "李林",
+  "price": 27,
+  "category": {
+    "$oid": "6388535fca6799baab93a4d9"
+  },
+  "scores": 7,
+  "description": "<ul><li>开 本：16开</li><li>纸 张：胶版纸</li><li>包 装：平装-胶订</li><li>是否套装：是</li><li>国际标准书号ISBN：978752211196401</li></ul><p><img src=\"http://localhost:3000/uploads/3e7b4c99f01c5ec981ae4672c61898c8\"></p>",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6389a9066460e91ee0c3f9f6"
+  },
+  "name": " 新版考研数学高等数学辅导讲义",
+  "icon": "http://localhost:3000/uploads/92da77c994e1d98281684302316786b1",
+  "author": "汤家凤",
+  "price": 35,
+  "category": {
+    "$oid": "6388535fca6799baab93a4d9"
+  },
+  "scores": 10,
+  "description": "<ul><li>开 本：16开</li><li>纸 张：胶版纸</li><li>包 装：平装-胶订</li><li>是否套装：否</li><li>国际标准书号ISBN：9787115571748</li></ul><p><img src=\"http://localhost:3000/uploads/bffdd7b156ddf4e43863acffe71cb514\"></p>",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6389a92d6460e91ee0c3fa00"
+  },
+  "name": "新考研数学超级金讲-高等数学 ",
+  "icon": "http://localhost:3000/uploads/93d73b37eba3010293953f86b92df5dd",
+  "author": "贺惠军",
+  "price": 57,
+  "category": {
+    "$oid": "6388535fca6799baab93a4d9"
+  },
+  "scores": 7,
+  "description": "<ul><li>开 本：16开</li><li>纸 张：胶版纸</li><li>包 装：平装-胶订</li><li>是否套装：否</li><li>国际标准书号ISBN：9787517131465</li></ul><p><img src=\"http://localhost:3000/uploads/59eddbab541e61b7d0d5383754f2b90a\"></p>",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6389a9aa6460e91ee0c3fa0a"
+  },
+  "name": "肖秀荣2023年考研政治1000题",
+  "icon": "http://localhost:3000/uploads/9f290c9b4e56a45fa4916e2caad77f28",
+  "author": "肖秀荣",
+  "price": 55,
+  "category": {
+    "$oid": "6388538fca6799baab93a4e2"
+  },
+  "scores": 8,
+  "description": "<ul><li>开 本：32开</li><li>纸 张：胶版纸</li><li>包 装：平装-胶订</li><li>是否套装：否</li><li>国际标准书号ISBN：9787304111755</li></ul><p><img src=\"http://localhost:3000/uploads/6d010a3b115e072e33d00f1e88ce9fe9\"></p>",
+  "__v": 0,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669998162545"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6389a9e06460e91ee0c3fa14"
+  },
+  "name": "肖秀荣2023考研政治知识点【精讲精练】",
+  "icon": "http://localhost:3000/uploads/955c339302cda3916f919755addfac0a",
+  "author": "肖秀荣",
+  "price": 50,
+  "category": {
+    "$oid": "6388538fca6799baab93a4e2"
+  },
+  "scores": 9,
+  "description": "<ul><li>开 本：16开</li><li>纸 张：胶版纸</li><li>包 装：平装-胶订</li><li>是否套装：否</li><li>国际标准书号ISBN：9787304111779</li></ul><p><img src=\"http://localhost:3000/uploads/f913ae8b34b6699bdb6cd5fa41ee440d\"></p>",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6389aa096460e91ee0c3fa1d"
+  },
+  "name": " 2023考研政治冲刺背诵手册",
+  "icon": "http://localhost:3000/uploads/b3a921db10ea69196e153cdc7514a34b",
+  "author": "陆寓丰",
+  "price": 35,
+  "category": {
+    "$oid": "6388538fca6799baab93a4e2"
+  },
+  "scores": 9,
+  "description": "<ul><li>开 本：16开</li><li>纸 张：胶版纸</li><li>包 装：平装-胶订</li><li>是否套装：否</li><li>国际标准书号ISBN：9787040592948</li></ul><p><br></p><p>&nbsp;内容简介</p><p>《考研政治冲刺背诵手册》是供考研政治强化巩固提升阶段及冲刺阶段使用的较为凝练、方便的复习背诵手册，凝结了作者团队多年的教学研究成果。它在内容编排上以最新版的《思想政治理论考试大纲解析》和高校思想政治理论课教材为蓝本，分为基础知识篇与技巧总结篇两个部分，涵盖了选择题、分析题重要考点和答题技巧，且对于记忆性与理解性考点均作了明确的标识。它具有覆盖全面、结构完整、重点突出、标示清楚、实用性强等特点，深受广大考研学子的好评。</p>",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6389aa646460e91ee0c3fa27"
+  },
+  "name": "2022西方哲学史800题",
+  "icon": "http://localhost:3000/uploads/0bac1f12b0f2440246426be3f8cf100b",
+  "author": "徐珊珊",
+  "price": 46,
+  "category": {
+    "$oid": "6388539cca6799baab93a4eb"
+  },
+  "scores": 10,
+  "description": "<ul><li>开 本：3开</li><li>纸 张：胶版纸</li><li>包 装：平装</li><li>是否套装：否</li><li>国际标准书号ISBN：9787209126359</li></ul><p><img src=\"http://localhost:3000/uploads/c01e49a1a1c0221a5f83c31939305d01\"></p>",
+  "__v": 0
+}]

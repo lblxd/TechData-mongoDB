@@ -1,0 +1,321 @@
+[{
+  "_id": {
+    "$oid": "639b71cc5661c55d3b22fcb7"
+  },
+  "book": {
+    "$oid": "63888230ca6799baab93a513"
+  },
+  "quantity": 3,
+  "total": 210,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671131596170"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671131596170"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639b71d65661c55d3b22fccf"
+  },
+  "book": {
+    "$oid": "63888230ca6799baab93a513"
+  },
+  "quantity": 3,
+  "total": 210,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671131606810"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671131606810"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639b725a400b9050dc52fb15"
+  },
+  "book": {
+    "$oid": "63888230ca6799baab93a513"
+  },
+  "quantity": 3,
+  "total": 210,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671131738362"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671131738362"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a99784ee7551db69915a68"
+  },
+  "book": {
+    "$oid": "63888230ca6799baab93a513"
+  },
+  "quantity": 2,
+  "total": 140,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672058756338"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672058756338"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac4df3cdd5afd20fc7f0ef"
+  },
+  "book": {
+    "$oid": "638881b2ca6799baab93a4ff"
+  },
+  "quantity": 2,
+  "total": 51.2,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672236531643"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672236531643"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad6a2d75b67241bd1ce1f9"
+  },
+  "book": {
+    "$oid": "63888230ca6799baab93a513"
+  },
+  "quantity": 3,
+  "total": 168,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672309293140"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672309293140"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b11d3af55c21881f6fa585"
+  },
+  "book": {
+    "$oid": "6388831dca6799baab93a53b"
+  },
+  "quantity": 3,
+  "total": 288,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672551738698"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672551738698"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b11d43f55c21881f6fa5b7"
+  },
+  "book": {
+    "$oid": "638881b2ca6799baab93a4ff"
+  },
+  "quantity": 3,
+  "total": 76.8,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672551747710"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672551747710"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3fbc8f78441b0b7e5772e"
+  },
+  "book": {
+    "$oid": "6389a69c6460e91ee0c3f9c4"
+  },
+  "quantity": 2,
+  "total": 142,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672739784112"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672739784112"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e3936f9bb8e8d20bb6ef93"
+  },
+  "book": {
+    "$oid": "63888230ca6799baab93a513"
+  },
+  "quantity": 2,
+  "total": 140,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675858799934"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675858799934"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e3943d9bb8e8d20bb6effb"
+  },
+  "book": {
+    "$oid": "63888280ca6799baab93a521"
+  },
+  "quantity": 1,
+  "total": 21,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675859005570"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675859005570"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e3947d9bb8e8d20bb6efff"
+  },
+  "book": {
+    "$oid": "63888280ca6799baab93a521"
+  },
+  "quantity": 1,
+  "total": 21,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675859069949"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675859069949"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e3948a9bb8e8d20bb6f00e"
+  },
+  "book": {
+    "$oid": "63888280ca6799baab93a521"
+  },
+  "quantity": 1,
+  "total": 16.8,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675859082088"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675859082088"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64055c1cfd4eba3133a1884f"
+  },
+  "book": {
+    "$oid": "63888998ca6799baab93a5a1"
+  },
+  "quantity": 2,
+  "total": 57.6,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678072860253"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678072860253"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64055cc0561384cb093ca7ad"
+  },
+  "book": {
+    "$oid": "63888998ca6799baab93a5a1"
+  },
+  "quantity": 2,
+  "total": 72,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678073024562"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678073024562"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640585a5561384cb093ca85a"
+  },
+  "book": {
+    "$oid": "63888230ca6799baab93a513"
+  },
+  "quantity": 1,
+  "total": 56,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678083493606"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678083493606"
+    }
+  },
+  "__v": 0
+}]

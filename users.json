@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "638dc3c30eee972cf9796b13"
+  },
+  "avatar": "http://localhost:3000/uploads/1c84e25bdf4f65bfc164080076e0c4ac",
+  "username": "user",
+  "password": "$2a$10$5CRBhhF2w1GNp2GXWM/Ij.GTVhPwMEIj8PQGes/JUW3A9Syc4jS6W",
+  "isvip": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670235075567"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1678468764434"
+    }
+  },
+  "__v": 0,
+  "purchased": [
+    {
+      "$oid": "63a99784ee7551db69915a68"
+    },
+    {
+      "$oid": "63ac4df3cdd5afd20fc7f0ef"
+    },
+    {
+      "$oid": "63ad6a2d75b67241bd1ce1f9"
+    },
+    {
+      "$oid": "63b11d3af55c21881f6fa585"
+    },
+    {
+      "$oid": "63b11d43f55c21881f6fa5b7"
+    },
+    {
+      "$oid": "63b3fbc8f78441b0b7e5772e"
+    },
+    {
+      "$oid": "64055cc0561384cb093ca7ad"
+    },
+    {
+      "$oid": "640585a5561384cb093ca85a"
+    }
+  ],
+  "address": "西安外事学院"
+},{
+  "_id": {
+    "$oid": "638e3a899def6df5bbc20c93"
+  },
+  "avatar": "http://localhost:3000/uploads/500c89e2acbf8ee58d0127d03fa19d3f",
+  "username": "vipuser",
+  "password": "$2a$10$C20LFNLXjTvcfA48xj54J.pi44Q6sPvWapUEsO1fPoBInzDo6vtG6",
+  "isvip": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670265481852"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670265481852"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639b7248400b9050dc52fae2"
+  },
+  "avatar": "http://localhost:3000/uploads/66205926719bf606f3ab5314f4332e50",
+  "username": "uservip",
+  "password": "$2a$10$7woQu1XJd5XEnwIjqDmXD.T9a8AGUlMh465LCJMyMRCykU7tvsbba",
+  "purchased": [
+    {
+      "$oid": "639b725a400b9050dc52fb15"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671131721063"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671131738415"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6eac121add215baceaaad"
+  },
+  "avatar": "http://localhost:3000/uploads/36983f61cda61908b9ec3f765bf72871",
+  "username": "user",
+  "password": "$2a$10$aKRLltW8RE35nsPGEGSgxeoshDRRV3pwsh/I4J7k.U5QC9AjpMTQ2",
+  "purchased": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672932033786"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672932033786"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6eae214b216353d82c58a"
+  },
+  "avatar": "http://localhost:3000/uploads/041eaa284d0818c0ebf0cd6e772f0b22",
+  "username": "user123213",
+  "password": "$2a$10$xg0Kak8DbDrv3V3ak.cJB.5H1OeODPiv3hEHVWe5n2oOd/6nw3QhC",
+  "purchased": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672932066360"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672932066360"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6eb99d938fe8fe1f0b872"
+  },
+  "avatar": "http://localhost:3000/uploads/e48b88da08a5637b2bda7f65e71733ea",
+  "username": "123123",
+  "password": "$2a$10$0SDFxt7Y6qTpJsqB865BBOeItsIqT/EjtuiAEar93awdoJTrK3TH2",
+  "purchased": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672932250089"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672932250089"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e393139bb8e8d20bb6ef4f"
+  },
+  "avatar": "http://localhost:3000/uploads/833489c6f19f0280b4d86fac32c18776",
+  "username": "test123",
+  "password": "$2a$10$XUP/cGNSvMmWEfmA5IU1EeRWsMnxY9T0yAgmWSbmkkUy.SVFJVcoe",
+  "purchased": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675858708127"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675858708127"
+    }
+  },
+  "__v": 0
+}]
